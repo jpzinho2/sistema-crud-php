@@ -1,0 +1,31 @@
+MEU SISTEMA CRUD - PHP E MYSQL
+
+Sobre o Projeto:
+- Sistema simples de cadastro com dois módulos
+- Desenvolvido em PHP com MySQL
+- Interface básica em HTML e CSS
+
+Módulos Implementados:
+1. Clientes (já existente)
+2. Produtos (novo)
+
+Como usar:
+1. Criar o banco de dados executando o arquivo banco.sql
+2. Colocar os arquivos na pasta do servidor (XAMPP/WAMP)
+3. Acessar index.php no navegador
+
+Funcionalidades:
+- Cadastrar novos clientes e produtos
+- Listar todos os registros
+- Editar registros existentes
+- Excluir registros com confirmação
+
+Tecnologias usadas:
+- PHP
+- MySQL
+- HTML
+- CSS
+
+Observações:
+Este foi meu primeiro projeto com CRUD completo!
+Aprendi a fazer INSERT, SELECT, UPDATE e DELETE.
